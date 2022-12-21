@@ -930,6 +930,7 @@ flex-grow: 0;
     color: #FFFFFF;
     flex: none;
 order: 1;
+cursor: pointer;
 flex-grow: 0;
 }
 
